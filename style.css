@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+.about{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.about li{
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.about img{
+    border: 5px solid white;
+    width: 385px;
+    height: 385px;
+    margin-left: 30px;
+}
